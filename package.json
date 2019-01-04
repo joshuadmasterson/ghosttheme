@@ -1,0 +1,15 @@
+{
+  "name": "josh_test_1",
+  "description": "Yup",
+  "version": "0.0.1",
+  "engines": {
+    "ghost": ">=1.0.0"
+  },
+  "author": {
+    "name": "Josh Masterson",
+    "email": "joshua.d.masterson@gmail.com"
+  },
+  "config": {
+    "posts_per_page": 5
+  }
+}
